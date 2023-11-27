@@ -15,13 +15,11 @@
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com?user=phcastrosantos&theme=radical&mode=weekly"
   />
-  
   <img
     width="40%"
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=phcastrosantos&theme=radical"
   />
-  
 </div>
 
 &nbsp; &nbsp; ## My Skills #### Main Stack:
