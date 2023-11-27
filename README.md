@@ -18,7 +18,7 @@
   <img
     width="40%"
     align="center"
-    src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phcastrosantos&theme=radical)"
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phcastrosantos&theme=radical)"
   />
 </div>
 
