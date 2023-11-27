@@ -1,8 +1,7 @@
-
-<img align="center" width="300px" style="display:block; margin:auto; margin-bottom:100px;" src="https://i.imgur.com/0vOoZWX.jpg" />
-
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<div style="text-align: center;">
+    <img width="300px" style="display: block; margin: auto; margin-bottom: 20px;" src="https://i.imgur.com/0vOoZWX.jpg" />
+    <p>I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuff</strong> and use them to create high-quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>
+</div>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
