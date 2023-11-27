@@ -16,7 +16,7 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=phcastrosantos&theme=radical&mode=weekly"
   />
   <img
-    width="30%"
+    width="45%"
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=phcastrosantos&theme=radical"
   />
