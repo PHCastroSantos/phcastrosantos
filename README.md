@@ -18,11 +18,11 @@
   <img
     width="40%"
     align="center"
-    src="(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phcastrosantos)](https://github.com/phcastrosantos/github-readme-stats)"
+    src="(https://github-readme-stats.vercel.app/api/top-langs/?username=phcastrosantos&theme=radical)"
   />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phcastrosantos&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phcastrosantos&theme=radical)
 
 
 &nbsp; &nbsp; ## My Skills #### Main Stack:
