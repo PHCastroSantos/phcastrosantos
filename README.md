@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="300px" style="margin-bottom: 20px" src="https://i.imgur.com/0vOoZWX.jpg" border-radius="5px"/>
+  <img width="300px" style="margin-bottom: 20px" src="https://i.imgur.com/0vOoZWX.jpg"/>
 </div>
 
 <p>
-  < Hello, World! > <br/> <br/>
+  < Hello, World! /> <br/> <br/>
   Eu me chamo Pedro Castro, tenho 22 anos e sou apaixonado por tecnologia!
   No momento estou tentando ingressar no mercado como Desenvolvedor <strong>Front-End.</strong>
   Estou cursando <strong>Ciência da computação</strong> e desejo me tornar um <strong>Desenvolvedor Web.</strong>
