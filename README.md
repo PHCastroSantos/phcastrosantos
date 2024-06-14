@@ -4,7 +4,7 @@
 
 <p>
   < Hello, World! /> <br/> <br/>
-  Eu me chamo Pedro Castro, tenho 22 anos e sou apaixonado por tecnologia!
+  Eu me chamo Pedro Castro, tenho 23 anos e sou apaixonado por tecnologia!
   No momento estou tentando ingressar no mercado como Desenvolvedor <strong>Front-End.</strong>
   Estou cursando <strong>Ciência da computação</strong> e desejo me tornar um desenvolvedor <strong>FullStack.</strong>
 </p>
