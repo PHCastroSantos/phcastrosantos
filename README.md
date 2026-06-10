@@ -7,7 +7,7 @@
   Olá, Mundo! <br/> <br/>
   Eu me chamo Pedro Castro, tenho 25 anos e sou apaixonado por tecnologia.
   Atualmente estou trabalhando na <strong>Avanade Brasil</strong>strong>.
-  Estou cursando <strong>Ciência da computação</strong> e desejo me tornar um desenvolvedor <strong>FullStack.</strong>  
+  Estou cursando <strong>Ciência da computação</strong> e desejo me tornar um <strong>desenvolvedor FullStack.</strong>  
 </p>
 
 <p>
