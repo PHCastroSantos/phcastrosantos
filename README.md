@@ -6,7 +6,7 @@
   <br/>
   <strong>PT-BR</strong> <br/> <br/>
   Olá, Mundo! <br/> <br/>
-  Eu me chamo Pedro Castro, tenho 25 anos e sou apaixonado por tecnologia.
+  Eu me chamo Pedro Santos, tenho 25 anos e sou apaixonado por tecnologia.
   Atualmente estou trabalhando na <strong>Avanade Brasil</strong>.
   Estou cursando <strong>Ciência da computação</strong> e desejo me tornar um <strong>desenvolvedor FullStack.</strong>  
 </p>
@@ -15,7 +15,7 @@
   <br/>
   <strong>EN-US</strong> <br/> <br/>
   Hello, World! <br/> <br/>
-  My name is Pedro Castro, I'm 25 years old and I'm passionate about technology.
+  My name is Pedro Santos, I'm 25 years old and I'm passionate about technology.
   I'm currently working at <strong>Avanade Brazil</strong>.
   I'm studying Computer Science and I want to become a <strong>FullStack developer.</strong>
 </p>
