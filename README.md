@@ -3,7 +3,7 @@
 </div>
 
 <p>
-  <strong>PT-BR</strong>
+  <strong>PT-BR</strong> <br/>
   Olá, Mundo! <br/> <br/>
   Eu me chamo Pedro Castro, tenho 25 anos e sou apaixonado por tecnologia.
   Atualmente estou trabalhando na <strong>Avanade Brasil</strong>strong>.
@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <strong>EN-US</strong>
+  <strong>EN-US</strong> <br/>
   Hello, World! <br/> <br/>
   My name is Pedro Castro, I'm 25 years old and I'm passionate about technology.
   I'm currently working at <strong>Avanade Brazil</strong>.
