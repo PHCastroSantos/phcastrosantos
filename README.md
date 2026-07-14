@@ -28,10 +28,10 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=phcastrosantos&theme=radical&mode=weekly"
   />
   <img
-    width="32%"
-    align="center"
-    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=phcastrosantos&theme=radical"
-  />
+  width="32%"
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phcastrosantos&theme=radical&cache_seconds=1800"
+/>
 </div>
 
 &nbsp; 
