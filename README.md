@@ -30,7 +30,7 @@
   <img
     width="32%"
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phcastrosantos&theme=radical"
+    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=phcastrosantos&theme=radical"
   />
 </div>
 
